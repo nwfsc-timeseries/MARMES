@@ -1,4 +1,4 @@
-# AFTS Labbook Info
+# MARSS for Env Sci BOOKDOWN Info
 
 * [Installing bookdown](#installing-bookdown)
 * [Getting started with editing your chapter](#getting-started)
