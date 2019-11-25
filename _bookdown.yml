@@ -1,0 +1,16 @@
+book_filename: "MARSSES"
+chapter_name: "Chapter "
+rmd_files: 
+  - "index.Rmd"
+  - "cleanedRmd/linear-regression-models-matrix.Rmd"
+  - "cleanedRmd/fitting-univariate-state-space.Rmd"
+  - "cleanedRmd/multivariate-ss.Rmd"
+  - "cleanedRmd/multivariate-ss-cov.Rmd"
+  - "cleanedRmd/DLM.Rmd"
+  - "cleanedRmd/intro-to-dfa.Rmd"
+  - "cleanedRmd/multivariate-ss-missing-cov.Rmd"
+  - "cleanedRmd/intro-to-jags.Rmd"
+  - "cleanedRmd/fitting-models-with-stan.Rmd"
+  - "references.Rmd"
+output_dir: "docs"
+rmd_subdir: FALSE
